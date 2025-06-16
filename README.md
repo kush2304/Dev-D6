@@ -10,7 +10,8 @@ Deploy a simple HTML website using GitHub Pages.
 - Verified live site
 
 ## Live Site
- https://<your-username>.github.io/Dev-D6/
+ https://kush2304.github.io/Dev-D6/
+
 
 ## Tools
 - RHEL Linux
